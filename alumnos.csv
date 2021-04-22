@@ -1,0 +1,388 @@
+nombre,anio,division,cantInasistencias
+Antonio Garcia,primero,a,14
+Jose Gonzalez,primero,a,10
+Manuel Rodriguez,primero,a,5
+Francisco Fernandez,primero,a,15
+Maria Carmen Lopez,primero,a,2
+Maria Martinez,primero,a,4
+Carmen Sanchez,primero,a,14
+Josefa Perez,primero,a,15
+Isabel Gomez,primero,a,5
+Ana Maria Martin,primero,a,3
+Maria Dolores Jimenez,primero,a,8
+Maria Pilar Ruiz,primero,a,4
+Maria Teresa Hernandez,primero,a,8
+Ana Diaz,primero,a,12
+Laura Moreno,primero,a,12
+Francisca Alvarez,primero,a,4
+Antonia Muñoz,primero,a,0
+Dolores Romero,primero,a,1
+Maria Angeles Alonso,primero,a,7
+Cristina Gutierrez,primero,b,0
+Marta Navarro,primero,b,6
+Maria Jose Torres,primero,b,15
+Maria Isabel Dominguez,primero,b,7
+Pilar Vazquez,primero,b,8
+Maria Luisa Ramos,primero,b,14
+Lucia Gil,primero,b,1
+Concepcion Ramirez,primero,b,7
+Elena Serrano,primero,b,9
+Mercedes Blanco,primero,b,3
+Manuela Suarez,primero,b,7
+Rosa Maria Molina,primero,b,1
+Raquel Morales,primero,b,5
+Sara Ortega,primero,b,1
+Maria Jesus Delgado,primero,b,10
+Paula Castro,primero,b,4
+Juana Ortiz,primero,b,15
+Teresa Rubio,primero,b,0
+Rosario Marin,primero,b,8
+Encarnacion Sanz,primero,b,3
+Beatriz Nuñez,primero,b,15
+Rosa Iglesias,primero,b,9
+Nuria Medina,primero,b,8
+Silvia Garrido,primero,b,5
+Santiago Santos,primero,b,5
+Eduardo Castillo,primero,b,6
+Victor Cortes,primero,b,6
+Roberto Lozano,primero,b,0
+Jaime Guerrero,primero,c,1
+Francisco Jose Cano,primero,c,12
+Ignacio Prieto,primero,c,5
+Alfonso Mendez,primero,c,14
+Salvador Calvo,primero,c,6
+Ricardo Cruz,primero,c,0
+Mario Gallego,primero,c,6
+Jordi Vidal,primero,c,14
+Emilio Leon,primero,c,1
+Marcos Herrera,primero,c,9
+Julian Marquez,primero,c,12
+Julio Peña,primero,c,8
+Tomas Cabrera,primero,c,4
+Agustin Flores,primero,c,9
+Guillermo Campos,segundo,a,7
+Gabriel Vega,segundo,a,1
+Jose Miguel Diez,segundo,a,4
+Felix Fuentes,segundo,a,13
+Jose Ramon Carrasco,segundo,a,3
+Mohamed Caballero,segundo,a,7
+Gonzalo Nieto,segundo,a,2
+Joan Reyes,segundo,a,0
+Marc Aguilar,segundo,a,8
+Mariano Pascual,segundo,a,15
+Ismael Herrero,segundo,a,8
+Domingo Santana,segundo,a,3
+Josep Lorenzo,segundo,a,7
+Cristian Hidalgo,segundo,a,7
+Juan Francisco Montero,segundo,a,5
+Alfredo Ibañez,segundo,a,4
+Nicolas Gimenez,segundo,b,10
+Sebastian Ferrer,segundo,b,8
+Jose Carlos Duran,segundo,b,11
+Felipe Vicente,segundo,b,8
+Samuel Benitez,segundo,b,11
+Hugo Mora,segundo,b,5
+Martin Santiago,segundo,b,9
+Cesar Arias,segundo,b,14
+Aitor Vargas,segundo,b,2
+Jose Angel Carmona,segundo,b,1
+Jose Ignacio Crespo,segundo,b,15
+Gregorio Roman,segundo,b,14
+Victor Manuel Pastor,segundo,b,8
+Hector Soto,segundo,b,15
+Luis Miguel Saez,segundo,b,14
+Jose Francisco Velasco,segundo,b,14
+Juan Luis Soler,segundo,b,2
+Lorenzo Moya,segundo,b,0
+Albert Esteban,segundo,b,11
+Cristobal Parra,segundo,b,6
+Esteban Bravo,segundo,c,9
+Julia Gallardo,segundo,c,9
+Patricia Rojas,segundo,c,3
+Irene Pardo,segundo,c,12
+Monica Merino,segundo,c,14
+Andrea Franco,segundo,c,0
+Rocio Espinosa,segundo,c,2
+Angela Izquierdo,segundo,c,15
+Maria Mar Lara,segundo,c,12
+Margarita Rivas,segundo,c,2
+Sonia Silva,segundo,c,2
+Sandra Rivera,segundo,c,2
+Susana Casado,segundo,c,15
+Alicia Arroyo,segundo,c,15
+Yolanda Redondo,segundo,c,12
+Alba Camacho,segundo,c,15
+Maria Josefa Rey,segundo,c,5
+Marina Vera,segundo,c,0
+Natalia Otero,segundo,c,5
+Maria Rosario Luque,segundo,c,3
+Inmaculada Galan,segundo,c,6
+Angeles Montes,segundo,c,1
+Esther Rios,segundo,c,0
+Maria Mercedes Sierra,segundo,c,7
+Ana Isabel Segura,segundo,c,4
+Eva Carrillo,segundo,c,12
+Veronica Marcos,segundo,c,11
+Amparo Marti,segundo,c,13
+Noelia Soriano,segundo,c,14
+Maria Rosa Mendoza,segundo,c,4
+Maria Victoria Robles,segundo,c,6
+Maria Concepcion Bernal,segundo,c,8
+Carolina Vila,segundo,c,5
+Claudia Valero,segundo,c,1
+Eva Maria Palacios,segundo,c,5
+Catalina Exposito,segundo,c,13
+Jesus Maria Benito,segundo,c,10
+Juan Miguel Andres,segundo,c,11
+Jaume Varela,segundo,c,7
+Antonio Jesus Pereira,segundo,c,4
+German Macias,segundo,c,13
+Lucas Guerra,segundo,c,3
+Francisco Manuel Heredia,segundo,c,5
+Jonathan Bueno,segundo,c,0
+Pedro Jose Roldan,tercero,a,5
+Jose Vicente Mateo,tercero,a,14
+Adolfo Villar,tercero,a,14
+Isaac Contreras,tercero,a,1
+Pau Miranda,tercero,a,1
+Benito Guillen,tercero,a,11
+Mohammed Mateos,tercero,a,2
+Moises Escudero,tercero,a,8
+Isidro Aguilera,tercero,a,4
+Juan Ramon Menendez,tercero,a,7
+Abel Casas,tercero,a,14
+Juan Pedro Aparicio,tercero,a,7
+Ahmed Rivero,tercero,a,1
+Bernardo Estevez,tercero,a,11
+Ernesto Beltran,tercero,a,10
+Christian Padilla,tercero,b,14
+Gerardo Gracia,tercero,b,11
+Aaron Rico,tercero,b,2
+Manuel Jesus Calderon,tercero,b,12
+Sergi Abad,tercero,b,12
+Mikel Galvez,tercero,b,9
+Carmelo Conde,tercero,b,4
+Pascual Salas,tercero,b,14
+Iñigo Jurado,tercero,b,13
+Federico Quintana,tercero,b,8
+Asier Plaza,tercero,b,12
+Antonio Manuel Acosta,tercero,b,8
+Miquel Aranda,tercero,c,10
+Joel Blazquez,tercero,c,11
+Marcelino Roca,tercero,c,14
+Francesc Bermudez,tercero,c,6
+Bartolome Costa,tercero,c,8
+Israel Miguel,tercero,c,15
+Eric Santamaria,tercero,c,3
+Mateo Salazar,tercero,c,2
+Jon Guzman,tercero,c,11
+Eloy Serra,tercero,c,9
+Jesus Manuel Villanueva,tercero,c,11
+Jose Alberto Cuesta,tercero,c,7
+Fermin Manzano,tercero,c,9
+Luis Alberto Tomas,tercero,c,13
+Gerard Hurtado,tercero,c,1
+Aurelio Trujillo,tercero,c,15
+Juan Jesus Rueda,tercero,c,1
+Omar Pacheco,tercero,c,8
+Unai Avila,tercero,c,11
+Jonatan Simon,cuarto,a,14
+Benjamin De La Fuente,cuarto,a,9
+Oriol Pons,cuarto,a,0
+Pere Lazaro,cuarto,a,4
+Lluis Sancho,cuarto,a,1
+Diana Mesa,cuarto,a,0
+Mariana Del Rio,cuarto,a,0
+Guadalupe Escobar,cuarto,a,6
+Barbara Millan,cuarto,a,5
+Agustina Blasco,cuarto,a,14
+Rosalia Alarcon,cuarto,a,12
+Leticia Luna,cuarto,a,8
+Cecilia Castaño,cuarto,a,0
+Elisabet Zamora,cuarto,a,8
+Adoracion Salvador,cuarto,b,6
+Maria Encarnacion Bermejo,cuarto,b,3
+Ariadna Paredes,cuarto,b,12
+Maria Magdalena Anton,cuarto,b,15
+Carlota Ballesteros,cuarto,b,6
+Jennifer Valverde,cuarto,b,11
+Maria Francisca Maldonado,cuarto,b,8
+Judith Bautista,cuarto,b,15
+Estrella Valle,cuarto,b,2
+Ester Ponce,cuarto,b,15
+Sheila Rodrigo,cuarto,b,11
+Judit Lorente,cuarto,b,12
+Leire Oliva,cuarto,b,15
+Eugenia Juan,cuarto,b,6
+Valentina Cordero,cuarto,c,8
+Maria Gloria Mas,cuarto,c,6
+Lara Collado,cuarto,c,7
+Emma Murillo,cuarto,c,3
+Maria Milagros Pozo,cuarto,c,13
+Ruth De La Cruz,cuarto,c,6
+Soraya Cuenca,cuarto,c,11
+Gabriela Montoya,cuarto,c,14
+Maria Consuelo Martos,cuarto,c,2
+Maria Montserrat Cuevas,cuarto,c,7
+Aitana Marco,cuarto,c,11
+Eulalia Barroso,cuarto,c,7
+Maria Yolanda Ros,cuarto,c,13
+Herminia Quesada,cuarto,c,15
+Berta De La Torre,cuarto,c,11
+Alexandra Barrera,cuarto,c,8
+Enriqueta Ordoñez,cuarto,c,8
+Ainara Gimeno,cuarto,c,14
+Aroa Corral,cuarto,c,15
+Aida Alba,cuarto,c,10
+Elisabeth Puig,cuarto,c,15
+Helena Cabello,quinto,a,8
+Gregoria Pulido,quinto,a,7
+Florentina Rojo,quinto,a,0
+Piedad Navas,quinto,a,0
+Aurelia Saiz,quinto,a,6
+Maria Reyes Soria,quinto,a,1
+Maria Remedios Arenas,quinto,a,2
+Nadia Aguado,quinto,a,5
+Erika Domingo,quinto,a,3
+Macarena Galindo,quinto,a,7
+Candida Vallejo,quinto,a,3
+Estela Mena,quinto,a,12
+Maria Aranzazu Escribano,quinto,a,7
+Mirian Asensio,quinto,a,6
+Maria Trinidad Ramon,quinto,a,11
+Aranzazu Valencia,quinto,a,11
+Maria Esperanza Lucas,quinto,a,13
+Naiara Caro,quinto,a,1
+Tatiana Polo,quinto,a,4
+Amaia Aguirre,quinto,a,15
+Paola Naranjo,quinto,a,12
+Yaiza Mata,quinto,a,5
+Candela Villalba,quinto,a,14
+Sagrario Reina,quinto,a,2
+Maite Paz,quinto,a,13
+Itziar Amador,quinto,a,14
+Saray Moran,quinto,b,4
+Joana Linares,quinto,b,11
+Merce Ojeda,quinto,b,2
+Caridad Leal,quinto,b,15
+Tomasa Burgos,quinto,b,5
+Amanda Chen,quinto,b,2
+Rita Oliver,quinto,b,9
+Teodora Carretero,quinto,b,10
+Valeria Bonilla,quinto,b,0
+Ana Rosa Sosa,quinto,b,5
+Elsa Roig,quinto,b,8
+Noa Aragon,quinto,b,11
+Felicidad Carrion,quinto,b,9
+Maria Carme Clemente,quinto,b,0
+Benita Villa,quinto,b,13
+Mar Castellano,quinto,b,2
+Filomena Carrera,quinto,b,8
+Antonia Maria Hernando,quinto,b,1
+Africa Cordoba,quinto,b,9
+Agueda Rosa,quinto,b,8
+Adelina Andreu,quinto,b,0
+Maria Sol Caceres,quinto,b,13
+Maria Manuela Calero,quinto,b,9
+Meritxell Correa,quinto,b,12
+Consolacion Mohamed,quinto,b,2
+Carme Cobo,quinto,b,3
+Maria Julia Cardenas,quinto,c,10
+Hortensia Ferreira,quinto,c,10
+Desiree Alcaraz,quinto,c,3
+Candelaria Juarez,quinto,c,5
+Maria Ines Velazquez,quinto,c,10
+Roser Domenech,quinto,c,12
+Nora Sola,quinto,c,6
+Elizabeth Chacon,quinto,c,2
+Aina Riera,quinto,c,0
+Maria Fernanda Saavedra,quinto,c,15
+Marcelina Toledo,quinto,c,11
+Eloisa Llorente,quinto,c,14
+Maria Gracia Zapata,quinto,c,0
+Adelaida Moral,quinto,c,5
+Maria Ascension Vela,quinto,c,11
+Maria Candelaria Salgado,quinto,c,5
+Esmeralda Carbonell,quinto,c,15
+Neus Villegas,quinto,c,11
+Lydia Arribas,quinto,c,9
+Maria Dolors Prado,quinto,c,3
+Flora Alfonso,quinto,c,2
+Alba Maria Requena,quinto,c,8
+Ana Cristina Ayala,quinto,c,0
+Maria Purificacion Pelaez,quinto,c,4
+Visitacion Sevilla,quinto,c,12
+Iris Font,quinto,c,6
+Khadija Barrios,quinto,c,3
+Violeta Luis,quinto,c,3
+Fernanda Carballo,sexto,a,10
+Amaya Piñeiro,sexto,a,12
+Micaela Olivares,sexto,a,8
+Ane Esteve,sexto,a,7
+Maria Sagrario Marques,sexto,a,8
+Azucena Da Silva,sexto,a,9
+Iria Solis,sexto,a,15
+Monserrat Pinto,sexto,a,4
+Maria Pino Camara,sexto,a,7
+Maria Aurora Grau,sexto,a,11
+Paulina Quintero,sexto,a,9
+Regina Salinas,sexto,a,14
+Avelina Bosch,sexto,a,9
+Leyre Perea,sexto,a,12
+Josep Maria Pineda,sexto,a,7
+Eusebio Cid,sexto,a,14
+Iñaki Marrero,sexto,a,7
+Antoni Ballester,sexto,a,10
+Jacinto Cantero,sexto,a,6
+Pol Castilla,sexto,a,13
+Pedro Antonio Sanchis,sexto,a,13
+Dario De La Rosa,sexto,a,9
+Victoriano Palomo,sexto,b,12
+Carles Arevalo,sexto,b,13
+Elias Casanova,sexto,b,12
+Carlos Alberto Miralles,sexto,b,1
+Arnau Sala,sexto,b,2
+Jose Enrique Rincon,sexto,b,0
+Marco Antonio Nicolas,sexto,b,2
+Jeronimo Lago,sexto,b,8
+Angel Luis Baena,sexto,b,5
+Juan Pablo Herranz,sexto,b,5
+Matias Porras,sexto,b,6
+Roger Belmonte,sexto,b,9
+Juan Ignacio Cardona,sexto,b,5
+Kevin Palma,sexto,b,14
+Isidoro Recio,sexto,b,0
+Teodoro Arranz,sexto,b,13
+Dionisio Muñiz,sexto,b,11
+Adria Pino,sexto,b,11
+Bruno Barba,sexto,b,15
+Candido Ventura,sexto,b,10
+Florencio Barreiro,sexto,b,12
+Francisco Jesus Coll,sexto,b,0
+Blas Cabezas,sexto,b,3
+Justo Cobos,sexto,b,11
+Roman Cuadrado,sexto,b,0
+Gustavo Angulo,sexto,b,3
+Jose Juan Cervera,sexto,b,9
+Santos Velez,sexto,b,12
+Juan Bautista Madrid,sexto,c,14
+Manuel Angel Puente,sexto,c,10
+Luis Fernando Vaquero,sexto,c,10
+Armando Ochoa,sexto,c,6
+Said Navarrete,sexto,c,7
+Alexander Becerra,sexto,c,9
+Damian Pujol,sexto,c,14
+Gines Ocaña,sexto,c,4
+Alonso Tapia,sexto,c,13
+Luis Manuel Singh,sexto,c,11
+Emiliano Granados,sexto,c,15
+Izan Bello,sexto,c,3
+Guillem Valls,sexto,c,5
+Carlos Javier Alfaro,sexto,c,11
+Enric Vergara,sexto,c,11
+Faustino Latorre,sexto,c,15
+Pedro Luis Peralta,sexto,c,9
+Serafin Losada,sexto,c,8
+Ion Gamez,sexto,c,11
+Xabier Mejias,sexto,c,5
+Gorka Campo,sexto,c,7
