@@ -32,7 +32,7 @@ class ManejadorAlumnos:
     def buscarAlumnos(self,anio,div):
         listaAlumnos = []
         inMax = Alumno.getInasMax()
-        for indice,alumno in enumerate(self.__lista):
+        for alumno in self.__lista:
             if alumno.getAnio() == anio.lower() and alumno.getDivision() == div.lower():
                 cantIn = alumno.getCantIn()
                 if cantIn > inMax:
